@@ -1,0 +1,13 @@
+https://github.com/gouldju1/Fraud-Detection-in-Python
+
+https://www.kaggle.com/code/naveenkonam1985/fradulent-transactions-prediction/notebook
+https://rstudio-pubs-static.s3.amazonaws.com/569372_178e59bf821b4a1f81d4568ed28dd095.html
+https://www.spotx.tv/resources/blog/developer-blog/unique-challenges-of-anomaly-detection-in-ad-fraud-data/
+
+https://github.com/atavci/fraud-detection-on-banksim-data/blob/master/Fraud%20Detection%20on%20Bank%20Payments.ipynb
+
+IMP:
+https://www.kaggle.com/code/ffxiaozhi/date-science-challenges-identifying-fraud
+
+RandomForestClassifier
+https://towardsdatascience.com/my-random-forest-classifier-cheat-sheet-in-python-fedb84f8cf4f
